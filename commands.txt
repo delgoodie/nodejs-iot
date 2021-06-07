@@ -1,0 +1,3 @@
+ node cloudiot_mqtt_example_nodejs.js    mqttDeviceDemo  --projectId=uv-sensor    --cloudRegion=us-central1    --registryId=my-registry    --deviceId=my-device    --privateKeyFile=rsa_private.pem  --serverCertFile=roots.pem  --numMessages=25 --algorithm=RS256
+
+ 
